@@ -1,5 +1,6 @@
 # silesia_kursy
 Projekt realizowany w ramach kursu projektowanie stron www
+
 Projekt i wykonanie Anna Kolasińska
 
 Użyte technologie: HTML5, CSS3, Bootstrap
